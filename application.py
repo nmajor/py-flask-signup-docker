@@ -16,7 +16,6 @@ import os
 import sys
 import json
 
-# Blah blah important comment blah
 # Blah blah important comment blah 3
 # Blah blah important comment blah 2
 
